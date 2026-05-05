@@ -3,7 +3,7 @@
 
 <p align="center">
    <samp><br>
-   Hey there, I'm Louise!
+   Hey there, I'm Kouqui!
    <br>
    I’m currently learning Java + Springboot and Typescript + React.js.<br>
    In the mean time, I'm working on developing Java projects and<br> looking to contribute to other open source

@@ -1,54 +1,31 @@
-# ⚔️ Kauã | Nível: Analista de TI 🧙‍♂️
+<div align="center">
+  <h1>Olá, eu sou o Kauã Zauli 👋</h1>
+  <h3>Desenvolvedor Back-end | Analista de TI</h3>
+</div>
 
-**Classe:** Desenvolvedor Back-end (Mago da Infraestrutura e Código)  
-**Guilda Atual:** Banco John Deere  
-**Academia Arcana:** Sistemas de Informação (PUC Campinas) & Técnico em TI (SENAC)  
-**Base de Operações:** Campinas, SP  
+<br/>
 
-*"Invocando sistemas financeiros robustos e automatizando rotinas desde o nível estagiário."*
+Sou um desenvolvedor apaixonado por construir sistemas robustos e arquiteturas eficientes. Atualmente, atuo no setor financeiro, com forte foco no desenvolvimento back-end e um interesse crescente em infraestrutura Cloud e práticas DevOps.
 
----
+### 💻 Sobre mim
 
-## 📊 Atributos Principais (Status)
-
-* **Inteligência (Back-end):** 🟩🟩🟩🟩⬛ `Java`, `Spring Boot`, `PHP`
-* **Sabedoria (Dados):** 🟩🟩🟩🟩⬛ `SQL`, Bancos Relacionais
-* **Destreza (DevOps/Cloud):** 🟩🟩🟩⬛⬛ `AWS`, `Terraform`, `GitHub Actions`
-* **Resistência (Acadêmico):** 🟩🟩🟩⬛⬛ Sobrevivendo aos debuffs de Cálculo e Álgebra Linear
+- 🏢 Atuando como Analista de TI no **Banco John Deere**.
+- 🎓 Estudando Sistemas de Informação na **PUC Campinas**.
+- 🎯 Foco atual: Tirando a certificação **AWS Cloud Practitioner (CLF-C02)** e desenvolvendo a arquitetura do meu projeto **FUT360**.
+- ⚡ Fora do código: Treinando calistenia, jogando um *Souls-like* ou cuidando do meu Up! TSI.
 
 ---
 
-## 🎒 Inventário (Tech Stack)
+### 🛠️ Tecnologias e Ferramentas
 
-### 🗡️ Armas de Combate Corpo-a-Corpo (Linguagens & Frameworks)
-> O arsenal principal para enfrentar bugs diários.
-* `Java` | `Spring Boot` | `PHP`
+**Desenvolvimento:**
+`Java` • `Spring Boot` • `PHP` • `SQL`
 
-### 🌪️ Magias de Área (Infraestrutura & Automação)
-> Feitiços de invocação de servidores e pipelines de deploy.
-* `AWS` | `Terraform` | `GitHub Actions`
+**Infraestrutura & DevOps:**
+`AWS` • `Terraform` • `GitHub Actions`
 
 ---
 
-## 📜 Livro de Missões (Current Quests)
+### 📫 Conecte-se comigo
 
-- [x] **Quest Principal:** Evoluir a classe de Estagiário para Analista de TI. *(Concluída!)*
-- [ ] **Quest Secundária:** Adquirir o pergaminho "AWS Certified Cloud Practitioner (CLF-C02)".
-- [ ] **Quest de Crafting:** Desenvolver e implementar a arquitetura do projeto *FUT360*.
-- [ ] **Missão de Ouro:** Acumular *loot* suficiente para o financiamento da base própria.
-
----
-
-## 🛡️ Passivas & Hobbies
-
-* **Buff de HP Máximo:** Treinamento focado em calistenia, academia e partidas de futebol para manter os status físicos no máximo.
-* **Reflexos Aprimorados (Esquiva +10):** Treinados através de incontáveis horas enfrentando bosses em jogos *Souls-like* e grindando no Ultimate Team (EA FC).
-* **Mecânico de Montarias:** Gerenciando upgrades de performance e manutenção da montaria principal (VW Up! TSI).
-
----
-
-## 📬 Ponto de Save (Contato)
-
-Se precisar de um aliado para uma raid de código ou quiser discutir sobre arquitetura de software:
-
-[LinkedIn](link-do-seu-linkedin-aqui) | [E-mail](mailto:seu-email@email.com)
+<a href="URL_DO_SEU_LINKEDIN">LinkedIn</a> • <a href="mailto:SEU_EMAIL">E-mail</a>
